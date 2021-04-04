@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsS3FileTransfer", "AwsS3FileTransfer\AwsS3FileTransfer.csproj", "{692614A5-65BA-4FE3-8AF1-52306FD57790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692614A5-65BA-4FE3-8AF1-52306FD57790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692614A5-65BA-4FE3-8AF1-52306FD57790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692614A5-65BA-4FE3-8AF1-52306FD57790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692614A5-65BA-4FE3-8AF1-52306FD57790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4FD3E7-D1AF-42EE-87D0-A52CCD378ECE}
+	EndGlobalSection
+EndGlobal
